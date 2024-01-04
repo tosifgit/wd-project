@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#calculator {
+    max-width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.int-heading{
+    padding: 16px;
+    margin-bottom: 8px;
+}
+
+.int-notes{
+    padding: 0 12px 0 12px;
+}
+
+.int-type{
+    padding: 6px 12px 6px 12px;
+}
+
+.int-equal{
+    padding: 0 12px 0 12px;
+}
+
+.int-row{
+    margin: 0 12px 0 12px;
+}
